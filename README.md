@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dioggus
+- 👀 I’m interested in front-end
+- 🌱 I’m currently learning JS, CSS, HTML5
+- 📫 How to reach me dioggus@gmail.com
